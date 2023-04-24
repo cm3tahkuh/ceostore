@@ -177,7 +177,7 @@ h1,h2, h3, h4, h5, h6{font-style: inherit; font-weight: 400;}
 
 .magazine__card > img{
  width: 400px;
- height: 400px;
+ max-width: 100%;
 }
 
 .magazine__card--info > h1{
